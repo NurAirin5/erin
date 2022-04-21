@@ -1,0 +1,80 @@
+body{
+    background-image:url(WALLPAPER.jpg);
+}
+
+
+/* Seksyen 1 */
+.seksyen1{
+    background-image:url(banner.png);
+    background-size: cover;
+    padding:7% 15% 7% ;
+}
+
+.banner{
+    text-align: center;
+    text-align: right;
+}
+
+.heading-Eyerin{
+    color: #06113C;
+}
+
+.tulisanPutih{
+    color: #EEEEEE;
+}
+
+/* seksyen 2 */
+
+.seksyen2{
+    background-color: #f7f5f2ed;
+    padding: 5% 15% 5%;
+    text-align: center;
+
+}
+
+.icon{
+    color:#06113C;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 3%;
+
+}
+
+.seksyen3{
+    background-color: #ff5c8db5;
+    text-align: center;
+    padding: 7% 15% ;
+}
+
+.seksyen4{
+    background-color: #E4AEC5;
+    text-align: center;
+}
+
+/* seksyen 5 */
+
+.seksyen5{
+    background-color: #fad9e67b;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: #151D3B;
+}
+
+/* footer */
+
+.footer{
+    background-color: #06113C;
+    padding: 2%;
+    text-align: center;
+    color: #FAD9E6;
+}
+
+.media{
+    color: #FAD9E6;
+}
+
+h1{
+    font-family: 'Square Peg', cursive;
+}
